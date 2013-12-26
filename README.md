@@ -1,4 +1,4 @@
-getringleader.github.io
+Ring Leader Inc
 =======================
+Rally Your Friends And Do Fun Stuff!!!
 
-Ring Leader Web Site
