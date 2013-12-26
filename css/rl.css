@@ -1,0 +1,17 @@
+#myDiv {
+width:400px;
+height:400px;
+border:2px black solid;
+margin:auto;
+}
+
+#im {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url("image/RL_Logo_Full.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
